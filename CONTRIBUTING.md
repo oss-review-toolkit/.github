@@ -91,8 +91,8 @@ Here are some rules of thumb in no particular order:
 - Use `println()` only in CLI modules and `log` in library modules.
 
 We aim to have automated checks for these rules, but are bound to what [detekt](https://github.com/detekt/detekt) /
-[ktlint](https://github.com/pinterest/ktlint) support. In any case, please [run the `detekt` task](./README.md#development)
-locally before contributing.
+[ktlint](https://github.com/pinterest/ktlint) support. In any case, please run the `detekt` task locally before
+contributing.
 
 ## Governance
 
