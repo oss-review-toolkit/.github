@@ -79,7 +79,7 @@ In order to maintain a high software quality standard, we strongly prefer contri
 
 Here are some rules of thumb in no particular order:
 
-- Do not use wildcard imports (with a few [exceptions](https://github.com/oss-review-toolkit/ort/blob/master/.detekt.yml)).
+- Do not use wildcard imports (with a few [exceptions](https://github.com/oss-review-toolkit/ort/blob/main/.detekt.yml)).
 - Sort references (like imports, dependencies etc.) strictly alphabetically (ASCII order, i.e. capital letters first),
   with blank lines between imports from different top-level packages.
 - Group code logically using blank lines, e.g. before and after code blocks enclosed by curly braces, or before return
