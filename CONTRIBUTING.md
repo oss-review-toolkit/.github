@@ -4,7 +4,9 @@ The team behind the [OSS Review Toolkit](https://github.com/oss-review-toolkit/o
 [pull requests](https://help.github.com/articles/about-pull-requests/) filed against the
 [GitHub project](https://github.com/oss-review-toolkit/ort/pulls).
 
-# Signing off each Commit
+# Working with Git
+
+## Signing off each Commit
 
 As part of filing a pull request we ask you to sign off the
 [Developer Certificate of Origin](https://developercertificate.org/) (DCO) in each commit.
@@ -74,6 +76,8 @@ In order to maintain a high software quality standard, we strongly prefer contri
 
 - To resolve conflicts, rebase pull request branches onto their target branch instead of merging the target branch into
   the pull request branch. This again results in a cleaner history without "criss-cross" merges.
+
+# Kotlin Coding
 
 ## Coding Conventions
 
