@@ -94,8 +94,4 @@ We aim to have automated checks for these rules, but are bound to what [detekt](
 [ktlint](https://github.com/pinterest/ktlint) support. In any case, please run the `detekt` task locally before
 contributing.
 
-## Governance
-
-OSS Review Toolkit (ORT) is a [Linux Foundation project](https://www.linuxfoundation.org/) and part of [ACT](https://automatecompliance.org/). To learn more on how the project is governed, including its charter, see the [ort-governance](https://github.com/oss-review-toolkit/ort-governance) repository.
-
 Thank you for reading and happy contributing!
