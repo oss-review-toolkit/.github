@@ -7,5 +7,11 @@
     ":semanticCommitTypeAll(deps)"
   ],
   "dependencyDashboard": false,
-  "labels": ["dependencies"]
+  "labels": ["dependencies"],
+  "packageRules": [
+    {
+      "matchDatasources": ["npm"],
+      "minimumReleaseAge": "7 days"
+    }
+  ]
 }
